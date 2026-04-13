@@ -5,6 +5,11 @@
   --font-sans: 'Inter', sans-serif;
 }
 
+/* Force light mode background */
+:root {
+  --ui-bg: #fff;
+}
+
 /* Scroll reveal base */
 .scroll-reveal {
   opacity: 0;

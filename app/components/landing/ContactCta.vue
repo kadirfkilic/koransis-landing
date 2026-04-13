@@ -182,7 +182,7 @@ onMounted(() => {
                 trailing
                 :loading="submitting"
                 :disabled="submitting"
-                class="mt-6"
+                class="mt-6 text-white"
               />
             </form>
           </div>

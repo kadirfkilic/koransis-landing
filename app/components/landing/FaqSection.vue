@@ -58,6 +58,10 @@ onMounted(() => {
         <UAccordion
           :items="faqs"
           multiple
+          :ui="{
+            body: 'text-slate-600',
+            trigger: 'text-slate-900 font-medium'
+          }"
         />
       </div>
     </div>

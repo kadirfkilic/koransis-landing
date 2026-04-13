@@ -44,5 +44,11 @@ export default defineNuxtConfig({
     formats: ['webp', 'avif']
   },
 
+  colorMode: {
+    preference: 'light',
+    fallback: 'light',
+    storageKey: 'nuxt-color-mode'
+  },
+
   compatibilityDate: '2025-01-15'
 })

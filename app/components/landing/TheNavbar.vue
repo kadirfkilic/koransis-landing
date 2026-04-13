@@ -58,6 +58,7 @@ onUnmounted(() => {
         <UButton
           label="Bize Ulaşın"
           size="md"
+          class="text-white"
           @click="scrollTo('#iletisim')"
         />
       </div>

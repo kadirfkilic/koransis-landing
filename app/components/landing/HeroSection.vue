@@ -82,7 +82,7 @@ function scrollToFeatures() {
           label="Özellikleri Keşfedin"
           size="xl"
           color="neutral"
-          variant="outline"
+          variant="soft"
           icon="i-lucide-chevron-down"
           trailing
           @click="scrollToFeatures"
