@@ -1,5 +1,5 @@
 <template>
-  <div class="screenshot-placeholder p-5 !items-start !justify-start" style="aspect-ratio: 16/9">
+  <div class="screenshot-placeholder p-5 !items-start !justify-start" role="img" aria-label="Müşteri takip programı CRM önizlemesi" style="aspect-ratio: 16/9">
     <div class="w-full">
       <!-- Search Bar -->
       <div class="flex items-center gap-2 mb-4">

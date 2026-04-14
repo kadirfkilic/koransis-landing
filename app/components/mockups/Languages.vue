@@ -1,5 +1,5 @@
 <template>
-  <div class="screenshot-placeholder p-5 !items-start !justify-start" style="aspect-ratio: 16/9">
+  <div class="screenshot-placeholder p-5 !items-start !justify-start" role="img" aria-label="Çoklu dil desteği önizlemesi" style="aspect-ratio: 16/9">
     <div class="w-full">
       <!-- Header -->
       <div class="text-xs font-semibold text-slate-700 mb-4">Çoklu Dil Desteği</div>

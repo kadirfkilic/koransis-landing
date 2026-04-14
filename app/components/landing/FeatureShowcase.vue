@@ -3,7 +3,7 @@ const features = [
   {
     title: 'Online Randevu Alma',
     icon: 'i-lucide-calendar-clock',
-    description: '7 adımlı kolay akış ile müşterileriniz online randevu alsın.',
+    description: '7 adımlı kolay akış ile müşterileriniz 7/24 online randevu alsın. Kuaför randevu programı olarak en pratik çözüm.',
     details: [
       'Kategori, hizmet, personel, tarih, saat, bilgi ve onay adımları',
       '"Personel fark etmez" seçeneği ile hızlı randevu',
@@ -15,7 +15,7 @@ const features = [
   {
     title: 'Admin Paneli',
     icon: 'i-lucide-settings',
-    description: 'Tek panel, her şey bir arada. İşletmenizi kolayca yönetin.',
+    description: 'Salon yönetim paneli ile randevu, müşteri, personel ve hizmetlerinizi tek yerden yönetin.',
     details: [
       'Randevu, müşteri, personel ve hizmet yönetimi',
       'Durum geçişleri: Bekliyor → Onaylandı → Tamamlandı',
@@ -27,7 +27,7 @@ const features = [
   {
     title: 'Hazır Web Sitesi',
     icon: 'i-lucide-globe',
-    description: 'Kayıt olun, anında profesyonel web siteniz hazır.',
+    description: 'Güzellik merkezi web sitesi kurmak hiç bu kadar kolay olmamıştı. Kayıt olun, anında hazır.',
     details: [
       'Hizmetler, ekip, galeri, blog, SSS sayfaları',
       'Custom domain desteği (örn: salonunuz.com)',
@@ -39,7 +39,7 @@ const features = [
   {
     title: 'Takvim ve Planlama',
     icon: 'i-lucide-calendar-days',
-    description: 'Görsel takvim ile randevularınızı kolayca planlayın.',
+    description: 'Randevu takvimi ile günlük, haftalık ve aylık planlamanızı görsel olarak yapın.',
     details: [
       'Günlük, haftalık ve aylık görünüm',
       'Personel bazlı filtreleme',
@@ -51,7 +51,7 @@ const features = [
   {
     title: 'Dashboard ve Analitik',
     icon: 'i-lucide-chart-bar',
-    description: 'İşletmenizin performansını verilerle takip edin.',
+    description: 'Randevu takip programı ile işletmenizin performansını verilerle analiz edin.',
     details: [
       'Günlük randevu özeti ve trendler',
       'Yoğun saatler ısı haritası',
@@ -63,7 +63,7 @@ const features = [
   {
     title: 'Müşteri Yönetimi',
     icon: 'i-lucide-users',
-    description: 'Mini CRM ile müşterilerinizi tanıyın ve takip edin.',
+    description: 'Müşteri takip programı ile müşterilerinizi tanıyın, geçmişlerini ve tercihlerini kaydedin.',
     details: [
       'Müşteri geçmişi ve istatistikleri',
       'Ziyaret sıklığı ve tercih analizi',
@@ -126,10 +126,10 @@ function scrollToFeature(index: number) {
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-16">
         <h2 class="text-3xl sm:text-4xl font-bold text-slate-900 mb-4">
-          İşletmeniz İçin Her Şey Tek Platformda
+          Kuaför ve Güzellik Merkezi Yönetim Yazılımı
         </h2>
         <p class="text-lg text-slate-500 max-w-2xl mx-auto">
-          Koransis ile randevu yönetiminden web sitesine, analizlerden müşteri takibine kadar her şeyi yönetin.
+          Online randevu alma, salon yönetimi, müşteri takip programı ve analitik araçları — Koransis ile hepsini tek panelden yönetin.
         </p>
       </div>
 

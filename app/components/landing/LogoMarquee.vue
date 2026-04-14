@@ -14,7 +14,7 @@ onMounted(() => {
 </script>
 
 <template>
-  <section ref="sectionRef" class="py-16 border-y border-slate-100 bg-slate-50/50">
+  <section ref="sectionRef" aria-label="Koransis online randevu sistemi kullanan işletmeler" class="py-16 border-y border-slate-100 bg-slate-50/50">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-8">
       <p class="text-center text-sm font-medium text-slate-400 scroll-reveal">
         Yüzlerce işletme Koransis ile büyüyor

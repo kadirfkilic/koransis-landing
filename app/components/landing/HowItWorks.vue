@@ -38,10 +38,10 @@ onMounted(() => {
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-16 scroll-reveal">
         <h2 class="text-3xl sm:text-4xl font-bold text-slate-900 mb-4">
-          Nasıl Çalışır?
+          Online Randevu Sistemi Nasıl Çalışır?
         </h2>
         <p class="text-lg text-slate-500 max-w-2xl mx-auto">
-          Üç basit adımda işletmenizi dijitale taşıyın.
+          Üç basit adımda kuaför, salon veya güzellik merkezinizi dijitale taşıyın.
         </p>
       </div>
 

@@ -1,6 +1,6 @@
 <script setup lang="ts">
 const heroRef = ref<HTMLElement>()
-const words = ['Randevularınızı', 'Dijitale', 'Taşıyın']
+const words = ['Online', 'Randevu', 'Sistemi']
 const revealedWords = ref<boolean[]>([])
 const showMockup = ref(false)
 const showCards = ref(false)
@@ -75,7 +75,7 @@ const notifications = [
           :class="{ revealed: true }"
         >
           <UIcon name="i-lucide-sparkles" class="size-4" />
-          <span>İşletmeniz için profesyonel randevu sistemi</span>
+          <span>Kuaför, güzellik merkezi ve salonlar için randevu yazılımı</span>
         </div>
 
         <!-- Title -->
@@ -96,8 +96,8 @@ const notifications = [
           :class="{ revealed: true }"
           style="transition-delay: 0.8s"
         >
-          Online randevu, hazır web sitesi, admin paneli ve analitik araçları tek platformda.
-          İşletmenizi büyütmenin en kolay yolu.
+          Kuaför, güzellik merkezi, berber ve spa salonları için 7/24 online randevu alma,
+          müşteri takibi, hazır web sitesi ve analitik paneli tek platformda.
         </p>
 
         <!-- CTA -->

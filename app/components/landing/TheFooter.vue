@@ -22,7 +22,7 @@ function scrollTo(href: string) {
             Koran<span class="text-violet-400">sis</span>
           </a>
           <p class="mt-3 text-slate-400 text-sm leading-relaxed max-w-xs">
-            Güzellik merkezleri, kuaförler ve randevu bazlı işletmeler için profesyonel online randevu ve işletme yönetim platformu.
+            Kuaför randevu programı, güzellik merkezi yazılımı, berber randevu uygulaması ve salon yönetim sistemi — tüm randevu bazlı işletmeler için profesyonel online randevu ve işletme yönetim platformu.
           </p>
         </div>
 

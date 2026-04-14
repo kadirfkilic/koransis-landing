@@ -1,5 +1,5 @@
 <template>
-  <div class="screenshot-placeholder p-5 !items-start !justify-start" style="aspect-ratio: 16/9">
+  <div class="screenshot-placeholder p-5 !items-start !justify-start" role="img" aria-label="Blog ve içerik yönetimi önizlemesi" style="aspect-ratio: 16/9">
     <div class="w-full">
       <!-- Tabs -->
       <div class="flex gap-1 mb-4 bg-white rounded-lg p-1 border border-slate-100">

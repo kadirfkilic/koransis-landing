@@ -1,5 +1,5 @@
 <template>
-  <div class="screenshot-placeholder p-5 !items-start !justify-start" style="aspect-ratio: 16/9">
+  <div class="screenshot-placeholder p-5 !items-start !justify-start" role="img" aria-label="Online randevu alma akışı önizlemesi" style="aspect-ratio: 16/9">
     <!-- Browser Chrome -->
     <div class="w-full">
       <div class="flex items-center gap-1.5 mb-4">

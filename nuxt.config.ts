@@ -17,7 +17,7 @@ export default defineNuxtConfig({
   site: {
     url: 'https://koransis.com',
     name: 'Koransis',
-    description: 'Koransis - Kolay Randevu Sistemi. Güzellik merkezleri, kuaförler ve randevu bazlı işletmeler için profesyonel SaaS randevu yönetim platformu.',
+    description: 'Kuaför, güzellik merkezi, berber ve spa salonları için online randevu sistemi. 7/24 randevu alma, müşteri takibi, hazır web sitesi ve analitik paneli tek platformda.',
     defaultLocale: 'tr'
   },
 

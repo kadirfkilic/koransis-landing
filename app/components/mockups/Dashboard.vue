@@ -1,5 +1,5 @@
 <template>
-  <div class="screenshot-placeholder p-5 !items-start !justify-start" style="aspect-ratio: 16/9">
+  <div class="screenshot-placeholder p-5 !items-start !justify-start" role="img" aria-label="Koransis dashboard ve analitik paneli önizlemesi" style="aspect-ratio: 16/9">
     <div class="w-full">
       <!-- Stat Cards -->
       <div class="grid grid-cols-4 gap-2 mb-4">

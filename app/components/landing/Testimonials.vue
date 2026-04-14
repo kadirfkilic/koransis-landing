@@ -36,10 +36,10 @@ onMounted(() => {
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-16 scroll-reveal">
         <h2 class="text-3xl sm:text-4xl font-bold text-slate-900 mb-4">
-          Müşterilerimiz Ne Diyor?
+          Randevu Sistemimizi Kullanan İşletmeler
         </h2>
         <p class="text-lg text-slate-500 max-w-2xl mx-auto">
-          Koransis kullanan işletme sahiplerinin deneyimleri.
+          Koransis online randevu yazılımını kullanan kuaför, güzellik merkezi ve spa sahiplerinin deneyimleri.
         </p>
       </div>
 

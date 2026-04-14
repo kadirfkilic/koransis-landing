@@ -11,11 +11,11 @@ const problems = [
 ]
 
 const solutions = [
-  { icon: 'i-lucide-calendar-check', text: '7/24 online randevu alma sistemi' },
-  { icon: 'i-lucide-contact', text: 'Mini CRM ile müşteri geçmişi ve takip' },
-  { icon: 'i-lucide-layout-dashboard', text: 'Anında hazır profesyonel web sitesi' },
-  { icon: 'i-lucide-shield-check', text: 'Otomatik çakışma engelleme ve planlama' },
-  { icon: 'i-lucide-bar-chart-3', text: 'Dashboard ve analitik ile tam görünürlük' }
+  { icon: 'i-lucide-calendar-check', text: '7/24 online randevu alma sistemi ile kesintisiz hizmet' },
+  { icon: 'i-lucide-contact', text: 'Müşteri takip programı ile geçmiş ve tercih analizi' },
+  { icon: 'i-lucide-layout-dashboard', text: 'Anında hazır profesyonel salon web sitesi' },
+  { icon: 'i-lucide-shield-check', text: 'Otomatik randevu çakışma engelleme ve planlama' },
+  { icon: 'i-lucide-bar-chart-3', text: 'İşletme yönetim paneli ile analitik ve raporlama' }
 ]
 
 onMounted(() => {
@@ -28,10 +28,10 @@ onMounted(() => {
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="text-center mb-16 scroll-reveal">
         <h2 class="text-3xl sm:text-4xl font-bold text-slate-900 mb-4">
-          Sorunları Çözüme Dönüştürün
+          Randevu Yönetimindeki Sorunlara Dijital Çözümler
         </h2>
         <p class="text-lg text-slate-500 max-w-2xl mx-auto">
-          İşletmenizin yaşadığı günlük sorunlara Koransis'in sunduğu çözümler.
+          Kuaför, güzellik merkezi ve salon işletmelerinin yaşadığı günlük randevu sorunlarına Koransis'in sunduğu çözümler.
         </p>
       </div>
 

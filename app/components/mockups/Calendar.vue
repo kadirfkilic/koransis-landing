@@ -1,5 +1,5 @@
 <template>
-  <div class="screenshot-placeholder p-5 !items-start !justify-start" style="aspect-ratio: 16/9">
+  <div class="screenshot-placeholder p-5 !items-start !justify-start" role="img" aria-label="Randevu takvimi haftalık görünüm önizlemesi" style="aspect-ratio: 16/9">
     <div class="w-full">
       <!-- Header -->
       <div class="flex items-center justify-between mb-4">
